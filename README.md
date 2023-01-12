@@ -1,16 +1,6 @@
 # kaspibank_ratkum
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Gif 1](https://github.com/Ratkum01/kaspibank_ratkum/blob/main/assets/readme/gif1.gif?raw=true)
+![Gif 1](https://github.com/Ratkum01/kaspibank_ratkum/blob/main/assets/readme/gif2.gif?raw=true)
+![Gif 1](https://github.com/Ratkum01/kaspibank_ratkum/blob/main/assets/readme/gif3.gif?raw=true)
+![Gif 1](https://github.com/Ratkum01/kaspibank_ratkum/blob/main/assets/readme/gif4.gif?raw=true)
